@@ -29,7 +29,7 @@ dependencies {
 //    compile group: 'nl.idgis.commons', name: 'commons-utils', version: '0.0.14'
     compile group: 'org.projectlombok', name: 'lombok'
 
-    testCompile group: 'junit', name: 'junit', version: '4.13.1'
+    testCompile group: 'junit', name: 'junit', version: '4.13.2'
 }
 
 task writeNewPom {
